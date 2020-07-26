@@ -1,0 +1,57 @@
+input {
+    outline: none;
+    /* width: 20px; */
+    border: none;
+}
+
+.search .container{
+    border: 1.1px solid grey;
+    width: 47%;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    padding-left: 11px;
+}
+
+.gs {
+    float: left;
+}
+
+.vs {
+    float: right;
+}
+
+.footer {
+    padding-top: 29px;
+    display: flexbox;
+    text-align: center;
+}
+
+#uno {
+    padding-right: 11px;
+    margin-right: 11px;
+    /* height: 38px; */
+    line-height: 2rem;
+}
+
+#duo {
+    padding-left: 11px;
+    margin-left: 11px;
+    line-height: 2rem;
+}
+
+.header {
+    padding-top: 110px;
+    /* width: 29%;
+    height: 29%;
+    align-content: center; */
+    /* padding-left: 290px; */
+    padding-bottom: 11px;
+}
+
+.container .header {
+    text-align: center;
+
+}
